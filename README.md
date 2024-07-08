@@ -1,1 +1,1 @@
-# image-classification-ensemble-pytorch
+Image classification using model ensemble in PyTorch
